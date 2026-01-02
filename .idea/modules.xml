@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Algorithm25.iml" filepath="$PROJECT_DIR$/Algorithm25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm2526.iml" filepath="$PROJECT_DIR$/Algorithm2526.iml" />
       <module fileurl="file://$PROJECT_DIR$/백준/백준/Gold/Gold.iml" filepath="$PROJECT_DIR$/백준/백준/Gold/Gold.iml" />
       <module fileurl="file://$PROJECT_DIR$/백준/백준/Platinum/Platinum.iml" filepath="$PROJECT_DIR$/백준/백준/Platinum/Platinum.iml" />
     </modules>
