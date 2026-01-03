@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0001-two-sum) |
 | [0015-3sum](https://github.com/meraki6512/Algorithm25/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/meraki6512/Algorithm25/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0134-gas-station) |
 | [0198-house-robber](https://github.com/meraki6512/Algorithm25/tree/master/0198-house-robber) |
@@ -47,6 +48,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/meraki6512/Algorithm25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0006-zigzag-conversion)                                                                       |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string)                                      |
+| [0049-group-anagrams](https://github.com/meraki6512/Algorithm25/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0125-valid-palindrome)                                                                        |
 | [0151-reverse-words-in-a-string](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0151-reverse-words-in-a-string)                                                               |
 | [0205-isomorphic-strings](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0205-isomorphic-strings)                                                                      |
@@ -111,6 +113,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0001-two-sum)            |
 | [0003-longest-substring-without-repeating-characters](https://github.com/meraki6512/Algorithm25/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/meraki6512/Algorithm25/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0290-word-pattern)       |
 | [0383-ransom-note](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0383-ransom-note)        |
@@ -167,4 +170,5 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/meraki6512/Algorithm25/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/meraki6512/Algorithm25/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
