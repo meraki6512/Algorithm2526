@@ -47,6 +47,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/meraki6512/Algorithm25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0006-zigzag-conversion)                                                                       |
+| [0020-valid-parentheses](https://github.com/meraki6512/Algorithm25/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string)                                      |
 | [0049-group-anagrams](https://github.com/meraki6512/Algorithm25/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0125-valid-palindrome)                                                                        |
@@ -171,4 +172,8 @@
 | ------- |
 | [0015-3sum](https://github.com/meraki6512/Algorithm25/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/meraki6512/Algorithm25/tree/master/0049-group-anagrams) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/meraki6512/Algorithm25/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
