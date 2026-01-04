@@ -51,6 +51,7 @@
 | [0020-valid-parentheses](https://github.com/meraki6512/Algorithm25/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string)                                      |
 | [0049-group-anagrams](https://github.com/meraki6512/Algorithm25/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/meraki6512/Algorithm25/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0125-valid-palindrome)                                                                        |
 | [0151-reverse-words-in-a-string](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0151-reverse-words-in-a-string)                                                               |
 | [0205-isomorphic-strings](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0205-isomorphic-strings)                                                                      |
@@ -77,6 +78,7 @@
 | [0009-palindrome-number](https://github.com/meraki6512/Algorithm25/tree/master/LeetCode/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/meraki6512/Algorithm25/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/meraki6512/Algorithm25/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/meraki6512/Algorithm25/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0070-climbing-stairs)       |
 | [0279-perfect-squares](https://github.com/meraki6512/Algorithm25/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/meraki6512/Algorithm25/tree/master/0509-fibonacci-number) |
@@ -180,4 +182,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meraki6512/Algorithm25/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/meraki6512/Algorithm25/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/meraki6512/Algorithm25/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
