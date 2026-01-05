@@ -31,6 +31,7 @@
 | [0740-delete-and-earn](https://github.com/meraki6512/Algorithm25/tree/master/0740-delete-and-earn) |
 | [1706-min-cost-to-connect-all-points](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/1706-min-cost-to-connect-all-points) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/meraki6512/Algorithm25/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/meraki6512/Algorithm25/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0134-gas-station) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/meraki6512/Algorithm25/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | ------- |
 | [0015-3sum](https://github.com/meraki6512/Algorithm25/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/meraki6512/Algorithm25/tree/master/0049-group-anagrams) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/meraki6512/Algorithm25/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Stack
 |  |
 | ------- |
