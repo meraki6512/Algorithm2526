@@ -25,6 +25,7 @@
 | [0066-plus-one](https://github.com/meraki6512/Algorithm25/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0134-gas-station) |
+| [0136-single-number](https://github.com/meraki6512/Algorithm25/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/meraki6512/Algorithm25/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0238-product-of-array-except-self) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/meraki6512/Algorithm25/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/meraki6512/Algorithm25/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
