@@ -29,6 +29,7 @@
 | [0198-house-robber](https://github.com/meraki6512/Algorithm25/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0238-product-of-array-except-self) |
+| [0414-third-maximum-number](https://github.com/meraki6512/Algorithm25/tree/master/0414-third-maximum-number) |
 | [0740-delete-and-earn](https://github.com/meraki6512/Algorithm25/tree/master/0740-delete-and-earn) |
 | [1706-min-cost-to-connect-all-points](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/1706-min-cost-to-connect-all-points) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/meraki6512/Algorithm25/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -187,6 +188,7 @@
 | [0015-3sum](https://github.com/meraki6512/Algorithm25/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/meraki6512/Algorithm25/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/meraki6512/Algorithm25/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/meraki6512/Algorithm25/tree/master/0414-third-maximum-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/meraki6512/Algorithm25/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Stack
 |  |
