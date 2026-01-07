@@ -59,6 +59,7 @@
 | [0205-isomorphic-strings](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0205-isomorphic-strings)                                                                      |
 | [0290-word-pattern](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0290-word-pattern)                                                                            |
 | [0383-ransom-note](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0383-ransom-note)                                                                             |
+| [0389-find-the-difference](https://github.com/meraki6512/Algorithm25/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0392-is-subsequence) |
 ## String Matching
 |  |
@@ -127,6 +128,7 @@
 | [0205-isomorphic-strings](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0290-word-pattern)       |
 | [0383-ransom-note](https://github.com/meraki6512/Algorithm25/tree/main/LeetCode/0383-ransom-note)        |
+| [0389-find-the-difference](https://github.com/meraki6512/Algorithm25/tree/master/0389-find-the-difference) |
 | [0740-delete-and-earn](https://github.com/meraki6512/Algorithm25/tree/master/0740-delete-and-earn) |
 ## Counting
 |  |
@@ -184,6 +186,7 @@
 | ------- |
 | [0015-3sum](https://github.com/meraki6512/Algorithm25/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/meraki6512/Algorithm25/tree/master/0049-group-anagrams) |
+| [0389-find-the-difference](https://github.com/meraki6512/Algorithm25/tree/master/0389-find-the-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/meraki6512/Algorithm25/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Stack
 |  |
@@ -194,6 +197,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/meraki6512/Algorithm25/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/meraki6512/Algorithm25/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/meraki6512/Algorithm25/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
