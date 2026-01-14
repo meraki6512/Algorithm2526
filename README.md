@@ -200,6 +200,7 @@
 | [0067-add-binary](https://github.com/meraki6512/Algorithm25/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/meraki6512/Algorithm25/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/meraki6512/Algorithm25/tree/master/0389-find-the-difference) |
+| [3133-minimum-array-end](https://github.com/meraki6512/Algorithm25/tree/master/3133-minimum-array-end) |
 ## Simulation
 |  |
 | ------- |
