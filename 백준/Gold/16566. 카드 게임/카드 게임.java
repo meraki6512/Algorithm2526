@@ -22,18 +22,18 @@ public class Main {
         M = Integer.parseInt(st.nextToken());
         K = Integer.parseInt(st.nextToken());
 
-        // WithOutBS();
-        WithBS();
+        WithOutBS();
+        // WithBS();
     }
 
     private static void WithOutBS() throws IOException {
-        hasCard = new boolean[N+1];
+        hasCard = new boolean[N+2];
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < M; i++) {
             hasCard[Integer.parseInt(st.nextToken())] = true;
         }
 
-        parent = new int[N+1];
+        parent = new int[N+2];
         for (int i = 1; i <= N; i++) {
             parent[i] = i;
         }
