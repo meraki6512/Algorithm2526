@@ -5,6 +5,52 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;
 
+// refactored
+public class Main {
+    static class Node {
+        Node[] children = new Node[26]; // lower-case only ... -> cutoff hashing, memory overheads
+        int cnt = 0;
+    }
+
+    static Node root = new Node();
+
+    static String insertAndGetAlias(String str) {
+        Node cur = root;
+        String alias = null;
+
+        for (int i = 0; i < str.length(); i++) {
+            int idx = str.charAt(i) - 'a';
+
+            // new branch
+            if (cur.children[idx] == null) {
+                cur.children[idx] = new Node();
+                if (alias == null) {
+                    alias = str.substring(0, i+1);
+                }
+            }
+
+            cur = cur.children[idx]; //mv
+        }
+
+        cur.cnt++;
+        if (alias != null) return alias;    // new branch
+        if (cur.cnt == 1) return str;       // first time fully used
+        return str + cur.cnt;               // same nickname
+    }
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int N = Integer.parseInt(br.readLine());
+
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < N; i++) {
+            sb.append(insertAndGetAlias(br.readLine())).append("\n");
+        }
+        System.out.println(sb);
+    }
+}
+
+/**
 public class Main {
     private static Trie root = new Trie();
 
@@ -42,3 +88,4 @@ public class Main {
         }
     }
 }
+ */
