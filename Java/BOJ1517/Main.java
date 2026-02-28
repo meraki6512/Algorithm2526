@@ -71,7 +71,7 @@ public class Main {
         while (i <= m) tmp[k++] = A[i++];
         while (j <= r) tmp[k++] = A[j++];
 
-        for (int t = l; t <= r; t++) A[t] = tmp[t];
+        if (r + 1 - l >= 0) System.arraycopy(tmp, l, A, l, r + 1 - l);
     }
 
     /**
